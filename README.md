@@ -2,7 +2,7 @@
 
 ### Hola!!
 
-Soy Fernando, tengo 20 años y soy un estudiante de el Ciclo de Grado Superior de Desarrollo de Aplicaciones Multiplataforma en el Colegio Salesianos La Cuesta, Tenerife.
+Soy Fernando, estudié el Ciclo de Grado Superior de Desarrollo de Aplicaciones Multiplataforma en el Colegio Salesianos La Cuesta, Tenerife.
 
 He trabajado con diversas tecnologías relacionadas con un entorno backend como pueden ser Express o Spring aplicando lenguajes como Javascript, Typescript o Java y siguiendo un enfoque TDD en mi código. Me gusta mucho la programación en Back-end pero no le pierdo el gusto al Front-end, aunque me gustaría adentrarme mucho más para seguir aprendiendo⚡.
 
